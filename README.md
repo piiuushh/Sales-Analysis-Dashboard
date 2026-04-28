@@ -110,3 +110,8 @@ DIVIDE(
     CALCULATE([Total Revenue], DATEADD(Date[Date], -1, MONTH))
 )
 
+📦 Sales-Analytics-Dashboard
+ ┣ 📂 Dataset
+ ┣ 📂 Screenshots
+ ┣ 📄 Capstone_Project.pbix
+ ┗ 📄 README.md
