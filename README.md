@@ -109,6 +109,13 @@ DIVIDE(
     [Total Revenue] - CALCULATE([Total Revenue], DATEADD(Date[Date], -1, MONTH)),
     CALCULATE([Total Revenue], DATEADD(Date[Date], -1, MONTH))
 )
+---
+##📸 Dashboard Preview
+
+<img width="1268" height="790" alt="Page 3" src="https://github.com/user-attachments/assets/0e087cd9-de43-4a2c-b404-e0277ad790a1" />
+<img width="1272" height="776" alt="Page 2" src="https://github.com/user-attachments/assets/12b2330f-590d-47c5-9398-ad2b8ffe0d22" />
+<img width="1230" height="770" alt="Page 1" src="https://github.com/user-attachments/assets/098f6192-5bac-431f-9f3f-76f41e8bb13c" />
+
 
 📦 Sales-Analytics-Dashboard
  ┣ 
@@ -117,3 +124,6 @@ DIVIDE(
  ┣ 📄 10000 Rows Dataset
  ┣ 📄 Capstone Project Questions
  ┗ 📄 README.md
+
+##📸 Dashboard Preview
+
