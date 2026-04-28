@@ -111,7 +111,9 @@ DIVIDE(
 )
 
 📦 Sales-Analytics-Dashboard
- ┣ 📂 Dataset
- ┣ 📂 Screenshots
+ ┣ 
+ ┣ 📂 Capstone_Project Dashboard Screenshots
  ┣ 📄 Capstone_Project.pbix
+ ┣ 📄 10000 Rows Dataset
+ ┣ 📄 Capstone Project Questions
  ┗ 📄 README.md
